@@ -28,3 +28,8 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
